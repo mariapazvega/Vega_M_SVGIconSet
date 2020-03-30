@@ -1,0 +1,1 @@
+# Vega_M_SVGIconSet
