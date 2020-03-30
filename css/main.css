@@ -1,0 +1,233 @@
+#titleCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: auto;
+  text-align: center;
+}
+
+#title {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #000000;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+a:hover {
+  color: #ff7bac;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #ed1e79;
+  font-size: 100px;
+}
+
+#pCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  margin-left: auto;
+  text-align: left;
+  line-height: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  color: #000000;
+  font-size: 28px;
+}
+
+#svgCont {
+  padding-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: auto;
+  align-items: baseline;
+}
+
+.SVGIMG {
+  margin: 50px 50px 25px 50px;
+  padding: 10px;
+  border: transparent;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.SVGIMG:hover {
+  box-shadow: 10px 10px 10px #ff7bac;
+}
+
+
+#svgCont p {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  color: #ed1e79;
+  font-size: 18px;
+  padding: 0;
+}
+
+#heart {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/heart.svg") no-repeat;
+}
+
+#heart:hover {
+  background: url("../images/heart.svg") no-repeat;
+}
+
+#card {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/card.svg") no-repeat;
+}
+
+#card:hover {
+  background: url("../images/card.svg") no-repeat;
+}
+
+#lock {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/lock.svg") no-repeat;
+}
+
+#lock:hover {
+  background: url("../images/lock.svg") no-repeat;
+}
+
+#envelop {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/envelop.svg") no-repeat;
+}
+
+#envelop:hover {
+  background: url("../images/envelop.svg") no-repeat;
+}
+
+#ring {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/ring.svg") no-repeat;
+}
+
+#ring:hover {
+  background: url("../images/ring.svg") no-repeat;
+}
+
+#lips {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/lips.svg") no-repeat;
+}
+
+#lips:hover {
+  background: url("../images/lips.svg") no-repeat;
+}
+
+#boxers {
+  display: inline-block;
+  width: 190px;
+  height: 200px;
+  background: url("../images/boxers.svg") no-repeat;
+}
+
+#boxers:hover {
+  background: url("../images/boxers.svg") no-repeat;
+}
+
+#love {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/love.svg") no-repeat;
+}
+
+#love:hover {
+  background: url("../images/love.svg") no-repeat;
+}
+
+#swan {
+  display: inline-block;
+  width: 200px;
+  height: 160px;
+  background: url("../images/swan.svg") no-repeat;
+}
+
+#swan:hover {
+  background: url("../images/swan.svg") no-repeat;
+}
+
+#dart {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/dart.svg") no-repeat;
+}
+
+#dart:hover {
+  background: url("../images/dart.svg") no-repeat;
+}
+#mug {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/mug.svg") no-repeat;
+}
+
+#mug:hover {
+  background: url("../images/mug.svg") no-repeat;
+}
+
+#egg {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/egg.svg") no-repeat;
+}
+
+#egg:hover {
+  background: url("../images/egg.svg") no-repeat;
+}
+#calender {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/calender.svg") no-repeat;
+}
+
+#calender:hover {
+  background: url("../images/calender.svg") no-repeat;
+}
+
+#pizza {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/pizza.svg") no-repeat;
+}
+
+#pizza:hover {
+  background: url("../images/pizza.svg") no-repeat;
+}
+
+#avocado {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url("../images/avocado.svg") no-repeat;
+}
+
+#avocado:hover {
+  background: url("../images/avocado.svg") no-repeat;
+}
+
